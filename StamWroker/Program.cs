@@ -10,6 +10,7 @@ namespace StamWroker
     {
         static void Main(string[] args)
         {
+            // some comment...
             Console.WriteLine("Doing Nothing...");
             Console.ReadLine();
         }
