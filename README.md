@@ -1,0 +1,4 @@
+StamWorker
+==========
+
+test VS integration
