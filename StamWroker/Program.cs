@@ -13,6 +13,8 @@ namespace StamWroker
             // some comment...
             Console.WriteLine("Doing Nothing...");
             Console.ReadLine();
+            Console.WriteLine("Doing some more nothing...");
+            Console.ReadLine();
         }
     }
 }
