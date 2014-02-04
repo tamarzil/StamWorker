@@ -17,7 +17,7 @@ namespace StamWroker
             Console.ReadLine();
 
             // new feature comment...
-            Console.WriteLine("Doing something new 1 ...");
+            Console.WriteLine("Doing something new 1 .....");
             Console.ReadLine();
         }
     }
