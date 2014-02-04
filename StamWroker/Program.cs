@@ -15,6 +15,10 @@ namespace StamWroker
             Console.ReadLine();
             Console.WriteLine("Doing some more nothing...");
             Console.ReadLine();
+
+            // new feature comment...
+            Console.WriteLine("Doing something new...");
+            Console.ReadLine();
         }
     }
 }
