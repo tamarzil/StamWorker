@@ -19,6 +19,10 @@ namespace StamWroker
             // new feature comment...
             Console.WriteLine("Doing something new 1 .....");
             Console.ReadLine();
+
+            // second feature comment...
+            Console.WriteLine("Doing something new 2 .....");
+            Console.ReadLine();
         }
     }
 }
